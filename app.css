@@ -1,0 +1,63 @@
+body {
+    background-image: url(../precious.jpeg);
+    text-align: center;
+    color: white;
+    font-family: Arial, Helvetica, 'Open Sans', sans-serif;
+    height: 100vh;
+}
+
+h1 {
+    color: greenyellow;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+
+
+.container-fluid {
+    padding: 20px;
+    max-width: 80%;
+    background: magenta;
+    margin: auto;
+    border: 5px solid black;
+    border-radius: 15px;
+
+}
+
+#count-el {
+    color: aqua;
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+#icrement-btn {
+    background: darkred;
+}
+
+#save-btn {
+    background-color: darkgreen;
+}
+
+#reCount-btn {
+    background-color: darkorange;
+}
+
+button {
+    border: 1px solid black;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bolder;
+    width: 200px;
+    height: 50px;
+    margin-bottom: 5px;
+    border-radius: 10px;
+
+}
+
+#save-el {
+    color: yellow;
+    font-weight: bolder;
+    font-size: larger;
+}
